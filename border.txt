@@ -1,0 +1,8 @@
+.image{
+border: 1px ;  /* 邊框 */
+padding: 20px;           /* 內距 */
+width: 300px;            /* 方塊寬度 */
+background-color: #f9f9f9; /* 背景色 */
+border-radius: 10px;     /* 圓角，可選 */
+box-shadow: 2px 2px 8px rgba(0.1,0.2,0.6,0.9); /* 陰影，可選 */
+}

@@ -1,0 +1,124 @@
+body {
+  
+  background:white;
+  margin: 0
+  }
+
+
+
+p {
+  font-family: Arial;
+  color: black; 
+  }
+
+
+
+h1 {
+  font-weight: bold;
+ }
+
+#codeprojects_pagefooter{
+  display:none;
+}
+
+
+a {
+  color:blue; 
+  font-family: Arial
+}
+
+button{
+  background-color:white;
+  color: blue;
+  border-radius: 9px;
+}
+
+.HomeStyle{
+  text-align: center;
+  margin:0 auto;
+  border:1px;
+  padding:30px;
+  width:1000px;
+  background:lightblue;
+  border-radius: 8px;  
+}
+
+
+.HomeStyle body {
+  background: white;
+}
+
+.HomeStyle p {
+  font-family: Arial;
+  color: black; 
+}
+
+.HomeStyle h1 {
+  font-weight: bold;;
+  font-family: Arial;
+  color: darkblue; 
+
+}
+.HomeStyle a {
+  color:blue; 
+  font-family: Arial
+}
+
+.frame {
+  text-align: center;
+  margin:0 auto;
+  border:1px;
+  padding:30px;
+  width:1000px;
+  background:lightblue;
+  border-radius: 8px; 
+}
+
+.appData {
+  
+  text-align: center;
+}
+
+.appData {
+  margin:0 auto;
+  border:1px;
+  border-color:blue;
+  padding:30px;
+  width:1000px;
+  background:lightblue;
+  border-radius: 8px
+
+}
+
+.appData hr {
+  border:0px;
+  height:1px;
+  background-color:darkblue
+}
+
+
+.appData h1 {
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  color: darkblue;
+}
+
+.game {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/017/069/327/original/cartoon-illustration-meadow-and-mountain-sunset-blue-sky-with-clouds-with-hills-and-paddy-field-in-nature-landscape-vector.jpg");
+  min-height: 100vh;
+  
+  
+}
+
+.game p {
+  color: blue;
+}
+.game h1 {
+  font-weight: bold;
+  color: #4a00ff;
+}
+.topBar{
+  padding:10px 20px;
+  background-color: lightskyblue;
+  
+}
